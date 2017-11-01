@@ -1,2 +1,7 @@
 .idea
 kotlin-workshop.iml
+
+.gradle/
+build/
+out/
+
